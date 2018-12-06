@@ -8,6 +8,13 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 
+media_library:
+  name: uploadcare
+  config:
+    publicKey: demopublickey
+
+display_url: https://www.amaynu.com
+
 collections:
   - name: "blog"
     label: "Blog"
