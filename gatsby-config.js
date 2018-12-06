@@ -62,6 +62,7 @@ module.exports = {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
+        publish_mode: editorial_workflow
       },
     },
     'gatsby-plugin-purgecss', // must be after other CSS plugins
