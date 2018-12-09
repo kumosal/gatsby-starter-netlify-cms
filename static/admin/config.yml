@@ -14,6 +14,7 @@ media_library:
     publicKey: demopublickey
 
 display_url: https://www.amaynu.com
+logo_url: https://www.amaynu.com/img/logo.svg
 
 collections:
   - name: "blog"
